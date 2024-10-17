@@ -3,7 +3,7 @@ import CountriesApp from './Components/CountriesApp/ContriesApp.tsx';
 
 const App: React.FC = () => {
   return (
-    <div className="container">
+    <div>
       <CountriesApp />
     </div>
   );
